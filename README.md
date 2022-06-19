@@ -9,3 +9,6 @@ Grover search is a quantum algorithm that can be used to search for solutions to
 
 Now the Boolean satisfiability problem is the problem of determining if there exists an interpretation that satisfies a given Boolean formula. In other words, it asks whether the variables of a given Boolean formula can be consistently replaced by the values TRUE or FALSE in such a way that the formula evaluates to TRUE. If this is the case, the formula is called satisfiable. On the other hand, if no such assignment exists, the function expressed by the formula is FALSE for all possible variable assignments and the formula is unsatisfiable. This can be seen as a search problem, where the solution is the assignment where the Boolean formula is satisfied.
 
+referances/resoursces:
+
+https://www.quantiki.org/wiki/grovers-search-algorithm
